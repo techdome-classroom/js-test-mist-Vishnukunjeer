@@ -16,7 +16,6 @@ var romanToInt = function(s) {
           default: return 0;
       }
   };
-
   let result = 0;
   let previous = 0;
 
